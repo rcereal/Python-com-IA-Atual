@@ -1,0 +1,1 @@
+# Tupla sao iguais listas porem os elementos não podem serem modificados. e são usados parenteses.
